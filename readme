@@ -1,0 +1,3 @@
+This is Assignment 2 of the course CS5830 - Big Data Lab done at IIT Madras in Jan-May 2024.
+
+I have setup a Data Engineering Pipeline that uses public climatological data and creates a GeoMap plot/gif of the needed features. This is an Apache Airflow pipeline, which also has a Beam pipeline (using Apache Beam) for parallel processing. 
